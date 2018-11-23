@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":["console","log"],"mappings":";;;AAEA,aAFA,QAAA,8BAEAA,QAAQC,IAAI","file":"index.map","sourceRoot":"../../public/js","sourcesContent":["import \"../stylesheets/styles.scss\";\n\nconsole.log(\"index js is connected.\");\n"]}
